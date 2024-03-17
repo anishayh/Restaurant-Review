@@ -1,4 +1,4 @@
-<p># Resturant-Review<br>
+<p># Restaurant-Review<br>
 This is a machine learning project focusing on restaurant review analysis using Natural Language Processing (NLP) techniques.</p>
 
 <p>Objective:<br>
